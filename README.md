@@ -1,20 +1,20 @@
-ReactJS
+#ReactJS
 
-#npm prune
+npm prune
 
-#npm install
+npm install
 
-#gulp
+gulp
 
 for mock Json
 
-#npm install -g json-server
+npm install -g json-server
 
-#cd src
+cd src
 
-#json-server db.json
+json-server db.json
 
 
 
-#see it - localhost:9000
+see it - localhost:9000
 
